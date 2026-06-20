@@ -5,3 +5,4 @@
 ### terraform.tf
 #### terraform.tfvars
 ##### variable.tf
+##### outo.txt
